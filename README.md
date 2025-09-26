@@ -10,23 +10,12 @@ Time spent: 2 hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
-- [ x ] User can view the current question and 4 different answers
-- [ x ] User can view the next question after tapping an answer
-- [ x ] User can answer at least 3 different questions
+- User can view the current question and 4 different answers
+- User can view the next question after tapping an answer
+- User can answer at least 3 different questions
 
-
-The following **optional** features are implemented:
-
-- [ ] User can use the vertical orientation of the app on any device
-- [ ] User can track the question they are on and how many questions are left
-- [ ] User can see how many questions they got correct after answering all questions
-- [ ] User should be able to restart the game after they've finished answering all questions
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -38,10 +27,6 @@ The following **additional** features are implemented:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e0f643f5dbbb4c1eb154ff9b91d66f6d-44212121deca562c-full-play.gif">
     </a>
   </div>
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
